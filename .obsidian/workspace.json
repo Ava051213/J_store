@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c71338796f7ae7e",
+        "id": "caae0fbf0807ea65",
         "type": "tabs",
         "children": [
           {
-            "id": "c63f1939cd8f28b0",
+            "id": "b97756533a9caca1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           }
         ]
@@ -177,8 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c63f1939cd8f28b0",
+  "active": "6008c3af3ae23175",
   "lastOpenFiles": [
+    "未命名.md",
+    "未命名",
     "Java/Ch09-输入流和输出流.md",
     "Java/Ch08-线程.md",
     "Java/Ch07-常用实用类.md",
